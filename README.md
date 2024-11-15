@@ -41,5 +41,5 @@ Follow these steps to run the project locally:
    cd ecommerce-project
 2. **Install dependencies && run application**
   ```bash
-   npm install
-   npm run dev
+  npm install
+  npm run dev
