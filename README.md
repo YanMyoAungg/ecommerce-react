@@ -39,7 +39,8 @@ Follow these steps to run the project locally:
    ```bash
    git clone https://github.com/your-username/ecommerce-project.git
    cd ecommerce-project
-2. **Install dependencies && run application**
-  ```bash
-  npm install
-  npm run dev
+
+1. **Install dependencies & run application:**
+   ```bash
+   npm install
+   npm run dev
