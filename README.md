@@ -1,3 +1,4 @@
+**WIP**
 # React + TypeScript + Vite
 
 # E-Commerce Project 🛒
